@@ -1,0 +1,8 @@
+{
+  "import-mode": "files",
+  "order": "ascending",
+  "use-raw-folder-names": true,
+  "animation": {
+    "speed": 0
+  }
+}
