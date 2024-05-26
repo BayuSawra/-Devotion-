@@ -6616,7 +6616,8 @@ self.C3_ExpressionFuncs = [
 		p => {
 			const n0 = p._GetNode(0);
 			return () => (1 - n0.ExpBehavior("popup"));
-		}
+		},
+		() => "Layout Debug"
 ];
 
 
